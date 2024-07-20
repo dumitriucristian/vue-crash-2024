@@ -1,7 +1,7 @@
 {
-  "jobs":[
+  "jobs": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Senior Vue Developer",
       "type": "Full-Time",
       "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
@@ -15,7 +15,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Front-End Engineer (Vue)",
       "type": "Full-Time",
       "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
@@ -29,7 +29,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Vue.js Developer",
       "type": "Full-Time",
       "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
@@ -43,7 +43,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "Vue Front-End Developer",
       "type": "Part-Time",
       "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "Full Stack Vue Developer",
       "type": "Full-Time",
       "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
@@ -71,7 +71,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "Vue Native Developer",
       "type": "Full-Time",
       "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
@@ -82,6 +82,132 @@
         "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "d1ca",
+      "type": "Remote",
+      "title": "Asher Mcfadden",
+      "description": "Pariatur Maxime mol",
+      "salary": "$90K - $100K",
+      "location": "Dolorum porro quo id",
+      "company": {
+        "name": "Ruiz Hunt Co",
+        "description": "Neque praesentium re",
+        "contactEmail": "mejyp@mailinator.com",
+        "contactPhone": "+1 (172) 623-9297"
+      }
+    },
+    {
+      "id": "632d",
+      "type": "Remote",
+      "title": "Asher Mcfadden",
+      "description": "Pariatur Maxime mol",
+      "salary": "$90K - $100K",
+      "location": "Dolorum porro quo id",
+      "company": {
+        "name": "Ruiz Hunt Co",
+        "description": "Neque praesentium re",
+        "contactEmail": "mejyp@mailinator.com",
+        "contactPhone": "+1 (172) 623-9297"
+      }
+    },
+    {
+      "id": "4390",
+      "type": "Remote",
+      "title": "Salvador Zimmerman",
+      "description": "Reiciendis necessita",
+      "salary": "$175K - $200K",
+      "location": "Voluptas voluptatem ",
+      "company": {
+        "name": "Williams Mitchell Trading",
+        "description": "Ut dicta dicta aliqu",
+        "contactEmail": "meditizy@mailinator.com",
+        "contactPhone": "+1 (959) 414-1619"
+      }
+    },
+    {
+      "id": "9744",
+      "type": "Full-Time",
+      "title": "Anne Bell",
+      "description": "Ipsum magnam nostrum",
+      "salary": "$60K - $70K",
+      "location": "Qui maxime quia nobi",
+      "company": {
+        "name": "Oneal and Chase Trading",
+        "description": "Eveniet veniam tem",
+        "contactEmail": "kysu@mailinator.com",
+        "contactPhone": "+1 (813) 182-8735"
+      }
+    },
+    {
+      "id": "2838",
+      "type": "Full-Time",
+      "title": "Ezekiel Benjamin",
+      "description": "Deserunt sunt ex cu",
+      "salary": "$125K - $150K",
+      "location": "Laboris consectetur ",
+      "company": {
+        "name": "Hill and Kelley Trading",
+        "description": "Impedit provident ",
+        "contactEmail": "gedalerimi@mailinator.com",
+        "contactPhone": "+1 (369) 287-1548"
+      }
+    },
+    {
+      "id": "d905",
+      "type": "Remote",
+      "title": "Isaiah Hanson",
+      "description": "Non voluptatibus par",
+      "salary": "Under $50K",
+      "location": "Et ut et labore labo",
+      "company": {
+        "name": "Serrano Cobb Co",
+        "description": "Cillum accusamus pra",
+        "contactEmail": "mofus@mailinator.com",
+        "contactPhone": "+1 (459) 304-9913"
+      }
+    },
+    {
+      "id": "0938",
+      "type": "Internship",
+      "title": "Violet Simmons",
+      "description": "Non pariatur Nulla ",
+      "salary": "$175K - $200K",
+      "location": "Aut autem qui eos b",
+      "company": {
+        "name": "Lane Stein Traders",
+        "description": "Nihil irure aut accu",
+        "contactEmail": "vysarota@mailinator.com",
+        "contactPhone": "+1 (412) 699-6965"
+      }
+    },
+    {
+      "id": "f666",
+      "type": "Full-Time",
+      "title": "Claudia Woods",
+      "description": "Ea itaque sed aute d",
+      "salary": "$150K - $175K",
+      "location": "Id dolor veritatis i",
+      "company": {
+        "name": "Cross Church Co",
+        "description": "Rerum nulla omnis qu",
+        "contactEmail": "parafil@mailinator.com",
+        "contactPhone": "+1 (121) 647-2945"
+      }
+    },
+    {
+      "id": "0d1f",
+      "type": "Internship",
+      "title": "Scarlett Morris",
+      "description": "Et eu aut illum und",
+      "salary": "$60K - $70K",
+      "location": "Amet rerum velit as",
+      "company": {
+        "name": "Kirby and Massey Inc",
+        "description": "Sint eiusmod saepe c",
+        "contactEmail": "cemunypu@mailinator.com",
+        "contactPhone": "+1 (296) 941-3613"
       }
     }
   ]
