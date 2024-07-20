@@ -195,20 +195,6 @@
         "contactEmail": "parafil@mailinator.com",
         "contactPhone": "+1 (121) 647-2945"
       }
-    },
-    {
-      "id": "0d1f",
-      "type": "Internship",
-      "title": "Scarlett Morris",
-      "description": "Et eu aut illum und",
-      "salary": "$60K - $70K",
-      "location": "Amet rerum velit as",
-      "company": {
-        "name": "Kirby and Massey Inc",
-        "description": "Sint eiusmod saepe c",
-        "contactEmail": "cemunypu@mailinator.com",
-        "contactPhone": "+1 (296) 941-3613"
-      }
     }
   ]
 }
